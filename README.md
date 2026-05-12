@@ -165,7 +165,7 @@ jupyter notebook Logiestic_regresiin.ipynb
 
 ## 👤 Author
 
-**Your Name**
+**Rohan Sharma**
 Aspiring Data Scientist | Python · Machine Learning · Data Analysis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rohan-sharma-8057b0331/)
